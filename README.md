@@ -30,8 +30,17 @@ Solutions for the https://fullstackopen.com/en/about online course
 ### Part9: TypeScript
 ***[Solution](https://github.com/drohal3/fullstackopen-part9)***
 
+### Part 10: React Native
+***Not done yet.***
+
 ### Part11: CI/CD
 ***In progress...***
 
 ### Part12: Introduction to Containers
 ***[Solution](https://github.com/drohal3/fullstackopen-part12)***
+
+### Part12: Using relational databases
+***Not done yet***
+
+### Project
+***In design phase***
