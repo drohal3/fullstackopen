@@ -34,7 +34,7 @@ Solutions for the https://fullstackopen.com/en/about online course
 ***Not done yet.***
 
 ### Part11: CI/CD
-***In progress...***
+***[Solution](https://github.com/drohal3/fullstackopen-part11) (In progress...)***
 
 ### Part12: Introduction to Containers
 ***[Solution](https://github.com/drohal3/fullstackopen-part12)***
@@ -43,4 +43,4 @@ Solutions for the https://fullstackopen.com/en/about online course
 ***Not done yet***
 
 ### Project
-***In design phase***
+***In preparation phase...***
